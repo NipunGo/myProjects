@@ -1,5 +1,5 @@
-Port_analysis_kit.py - This file contains basic functions to do analysis and optimization of the portfolio.
-					   Following are the analysis tools present in the file-
+Port_analysis_kit.py - This file contains basic functions to do analysis and optimization of the portfolio
+			Following are the analysis tools present in the file-
                        - skewness, kurtosis, sharpe ratio, drawdown, semideviation, Conditional value at risk, Gaussian value at risk.
                        Foolowing are the computational tools present in the file-
                        - weights of the stocks that can minimize volatility
